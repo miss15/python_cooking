@@ -1,3 +1,5 @@
+#-*- coding:utf -*-
+
 import os
 import sys
 import time
